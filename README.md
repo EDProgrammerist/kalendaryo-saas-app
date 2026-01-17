@@ -1,10 +1,10 @@
 # Kalendaryo
 
 
-[![Next.js](https://img.shields.io/badge/Next.js-16-black?logo=next.js)](https://nextjs.org/)
-[![Clerk](https://img.shields.io/badge/Clerk-Auth%20%2B%20Billing-6C47FF?logo=clerk)](https://clerk.com/)
-[![Sanity](https://img.shields.io/badge/Sanity-CMS-F03E2F?logo=sanity)](https://sanity.io/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+![Next%20js 000000](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Sanity F03E2F](https://img.shields.io/badge/sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white)
+![TypeScript 007ACC](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript 323330](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ![image](https://github.com/EDProgrammerist/kalendaryo-saas-app/blob/master/sanity/Preview.png?raw=true)
 
