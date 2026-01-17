@@ -1,12 +1,12 @@
 # Kalendaryo
 
-[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+
 [![Next.js](https://img.shields.io/badge/Next.js-16-black?logo=next.js)](https://nextjs.org/)
 [![Clerk](https://img.shields.io/badge/Clerk-Auth%20%2B%20Billing-6C47FF?logo=clerk)](https://clerk.com/)
 [![Sanity](https://img.shields.io/badge/Sanity-CMS-F03E2F?logo=sanity)](https://sanity.io/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
-![image]()
+![image](https://github.com/EDProgrammerist/kalendaryo-saas-app/blob/master/sanity/Preview.png?raw=true)
 
 ## Build a Professional Scheduling Platform from Scratch
 
@@ -482,6 +482,7 @@ Ready to level up? Here are some features you can add to make this app even bett
 ## 📄 License
 
 This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International License** (CC BY-NC 4.0).
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 ### You CAN:
 - ✅ Use this code for **personal learning**
